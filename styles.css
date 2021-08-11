@@ -1,0 +1,28 @@
+.table{
+    align-items: center;
+    margin: auto;
+    display: inline-block;
+    background-color: #465333;
+    padding: 25px;
+    border-radius: 43px;
+}
+
+.container{
+    text-align: center;
+}
+
+input{
+    font-size: 40px;
+    width: auto;
+    border: 3px solid rgb(36, 43 ,8);
+    border-radius: 16px;
+
+}
+button{
+    font-size: 37px;
+    height: 63px;
+    width: 120px;
+    background-color: rgb(174, 209, 19);
+    border-radius: 10px;
+    
+}
