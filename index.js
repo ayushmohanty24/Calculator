@@ -23,10 +23,6 @@ for(item of buttons){
             display.value= eval(screenValue);
         }
 
-        else if( buttonText =="Del"){
-            display.value= screenValue.length-1;
-        }
-
 
         else{
             screenValue += buttonText;
